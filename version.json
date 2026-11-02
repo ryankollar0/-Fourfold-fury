@@ -1,12 +1,12 @@
 {
-  "versionCode": 10,
-  "versionName": "3.7",
-  "webVersion": 10,
+  "versionCode": 11,
+  "versionName": "3.8",
+  "webVersion": 11,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "60902032962be242c5c6883216e686f54918375471badbc3717f7eef17107330",
-  "apkUrl": "FourfoldFury-3.7.apk",
-  "apkSha256": "a21c63dddef62bc262a8c2c26d9c29c0e43118a61e4d938b95251a24a3c34442",
-  "notes": "v3.7: 8 new monsters, a second SKILL for every unit, element passives, 4 Overlord spells, 5 new battlefields with hazards and a map picker.",
-  "published": "2026-11-02T16:20:32.386Z"
+  "sha256": "ec22b60667367676a4659a98e02d92b08f087722a1576b832c95b64891e66dbb",
+  "apkUrl": "FourfoldFury-3.8.apk",
+  "apkSha256": "3eb4c520a0419ad9f71b9d3b0e8e643a60cbbeac98a94129661ba91451779737",
+  "notes": "v3.8: 50 new monsters (12–13 per element, small to ultimate) each with a fury-stealing special and a second skill; Bestiary/Codex screen; scrolling, filterable summon menu; balance pass.",
+  "published": "2026-11-02T17:54:44.451Z"
 }
