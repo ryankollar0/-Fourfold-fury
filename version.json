@@ -1,12 +1,12 @@
 {
-  "versionCode": 9,
-  "versionName": "3.6",
-  "webVersion": 9,
+  "versionCode": 10,
+  "versionName": "3.7",
+  "webVersion": 10,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "a7a98670f6017f2ceeb7abf5aa8b4ab7da810593195bf7db0d805181677f66ef",
-  "apkUrl": "FourfoldFury-3.6.apk",
-  "apkSha256": "89f5f0bdc270eebdaa26ab025ed401789169ba60e71e71eb4137014f181e413d",
-  "notes": "v3.6: the game now updates itself when you open it - content updates apply instantly, app updates download automatically and just need one tap on Install.",
-  "published": "2026-11-02T11:35:20.648Z"
+  "sha256": "60902032962be242c5c6883216e686f54918375471badbc3717f7eef17107330",
+  "apkUrl": "FourfoldFury-3.7.apk",
+  "apkSha256": "a21c63dddef62bc262a8c2c26d9c29c0e43118a61e4d938b95251a24a3c34442",
+  "notes": "v3.7: 8 new monsters, a second SKILL for every unit, element passives, 4 Overlord spells, 5 new battlefields with hazards and a map picker.",
+  "published": "2026-11-02T16:20:32.386Z"
 }
