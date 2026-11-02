@@ -1,12 +1,12 @@
 {
-  "versionCode": 12,
-  "versionName": "3.9",
-  "webVersion": 12,
+  "versionCode": 13,
+  "versionName": "3.10",
+  "webVersion": 13,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "7607ea153816229e5c91a54fa7f1fcf0aea31c10f6486fe0865bdc58a98e25b4",
-  "apkUrl": "FourfoldFury-3.9.apk",
-  "apkSha256": "151ea5fe6af8551a5b8394677a83bbb773f98384317eff781f1cb4f8b2beec53",
-  "notes": "v3.9 — Scrolling Versus\n• VERSUS DUEL and TEAM BATTLE: the creature roster now scrolls — drag with momentum, visible scrollbar; dragging never picks a creature, only a tap does\n• New Element and Tier filters in the versus picker; the arena row slides sideways\n• FIGHT!, BACK and the AI buttons stay pinned on every phone size\n• PLAY (Choose your throne) and the Online host lobby also scroll on small screens, so BEGIN WAR and CANCEL are always reachable",
-  "published": "2026-11-02T20:41:26.677Z"
+  "sha256": "f90f99a9fce9704eb0e5253e94194b39a24975684c5fd30d69bd434270006276",
+  "apkUrl": "FourfoldFury-3.10.apk",
+  "apkSha256": "2cd568063758cfb6ed7dbccffc64ba4966c2cea123958341af3b972e32d98423",
+  "notes": "v3.10: Every menu now scrolls - drag or fling up/down with momentum and a scrollbar, buttons stay pinned, scrolling never presses anything. 60 new monsters (15 per element, small to ultimate) with their own specials that steal fury and new skills - find them under the New 3.10 tab in Summon, Versus and the Bestiary. Units now have their own sounds: summon cries, attacks, spells, hurt, death and footsteps that fit each creature and element, with a new Unit sounds volume slider in Options.",
+  "published": "2026-11-02T21:54:06.917Z"
 }
