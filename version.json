@@ -1,12 +1,12 @@
 {
-  "versionCode": 11,
-  "versionName": "3.8",
-  "webVersion": 11,
+  "versionCode": 12,
+  "versionName": "3.9",
+  "webVersion": 12,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "ec22b60667367676a4659a98e02d92b08f087722a1576b832c95b64891e66dbb",
-  "apkUrl": "FourfoldFury-3.8.apk",
-  "apkSha256": "3eb4c520a0419ad9f71b9d3b0e8e643a60cbbeac98a94129661ba91451779737",
-  "notes": "v3.8: 50 new monsters (12–13 per element, small to ultimate) each with a fury-stealing special and a second skill; Bestiary/Codex screen; scrolling, filterable summon menu; balance pass.",
-  "published": "2026-11-02T17:54:44.451Z"
+  "sha256": "7607ea153816229e5c91a54fa7f1fcf0aea31c10f6486fe0865bdc58a98e25b4",
+  "apkUrl": "FourfoldFury-3.9.apk",
+  "apkSha256": "151ea5fe6af8551a5b8394677a83bbb773f98384317eff781f1cb4f8b2beec53",
+  "notes": "v3.9 — Scrolling Versus\n• VERSUS DUEL and TEAM BATTLE: the creature roster now scrolls — drag with momentum, visible scrollbar; dragging never picks a creature, only a tap does\n• New Element and Tier filters in the versus picker; the arena row slides sideways\n• FIGHT!, BACK and the AI buttons stay pinned on every phone size\n• PLAY (Choose your throne) and the Online host lobby also scroll on small screens, so BEGIN WAR and CANCEL are always reachable",
+  "published": "2026-11-02T20:41:26.677Z"
 }
