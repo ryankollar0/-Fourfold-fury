@@ -1,12 +1,12 @@
 {
-  "versionCode": 13,
-  "versionName": "3.10",
-  "webVersion": 13,
+  "versionCode": 14,
+  "versionName": "3.11",
+  "webVersion": 14,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "f90f99a9fce9704eb0e5253e94194b39a24975684c5fd30d69bd434270006276",
-  "apkUrl": "FourfoldFury-3.10.apk",
-  "apkSha256": "2cd568063758cfb6ed7dbccffc64ba4966c2cea123958341af3b972e32d98423",
-  "notes": "v3.10: Every menu now scrolls - drag or fling up/down with momentum and a scrollbar, buttons stay pinned, scrolling never presses anything. 60 new monsters (15 per element, small to ultimate) with their own specials that steal fury and new skills - find them under the New 3.10 tab in Summon, Versus and the Bestiary. Units now have their own sounds: summon cries, attacks, spells, hurt, death and footsteps that fit each creature and element, with a new Unit sounds volume slider in Options.",
-  "published": "2026-11-02T21:54:06.917Z"
+  "sha256": "9ab390db8f00f86b0d9212fb5e529e6da471bcab858c64c5451aeae610782cf3",
+  "apkUrl": "FourfoldFury-3.11.apk",
+  "apkSha256": "a90364b370239a3cc125cf184ebbd44d9a04a7f80cdc8846579eeb0d158bc085",
+  "notes": "v3.11: Every creature is now unique – all 150 have their own look, stats, special+skill pairing, voice and role; former look-alikes were redesigned with new bodies, palettes and anatomy. The Summon button now only appears when your selected unit can summon (your Overlord or Ultimates); with nothing selected it stays on the HUD, and when summoning is blocked it is greyed with the reason. Mind Rend now steals 30 fury instead of draining all of it. Balance pass from 1,800+ AI duels.",
+  "published": "2026-11-03T00:10:24.421Z"
 }
