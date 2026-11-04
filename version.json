@@ -1,12 +1,12 @@
 {
-  "versionCode": 14,
-  "versionName": "3.11",
-  "webVersion": 14,
+  "versionCode": 15,
+  "versionName": "3.12",
+  "webVersion": 15,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "9ab390db8f00f86b0d9212fb5e529e6da471bcab858c64c5451aeae610782cf3",
-  "apkUrl": "FourfoldFury-3.11.apk",
-  "apkSha256": "a90364b370239a3cc125cf184ebbd44d9a04a7f80cdc8846579eeb0d158bc085",
-  "notes": "v3.11: Every creature is now unique – all 150 have their own look, stats, special+skill pairing, voice and role; former look-alikes were redesigned with new bodies, palettes and anatomy. The Summon button now only appears when your selected unit can summon (your Overlord or Ultimates); with nothing selected it stays on the HUD, and when summoning is blocked it is greyed with the reason. Mind Rend now steals 30 fury instead of draining all of it. Balance pass from 1,800+ AI duels.",
-  "published": "2026-11-03T00:10:24.421Z"
+  "sha256": "e570db20b23a90ab2d6be66c1acd0494d6049ea553aeb6e9b74926242bef0ed6",
+  "apkUrl": "FourfoldFury-3.12.apk",
+  "apkSha256": "095a0c3d7ea22b9439aa966df12e5c479d1e72ddec94e4b5245bfde6b64424ed",
+  "notes": "v3.12: 60 new monster units (210 total), 3 summoners per side (Overlord + 2 Heralds), Army Builder with saved armies usable on the war map, Elemental Rite spell + arena Call Elemental.",
+  "published": "2026-11-04T02:47:01.379Z"
 }
