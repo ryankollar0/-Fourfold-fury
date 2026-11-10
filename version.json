@@ -1,12 +1,12 @@
 {
-  "versionCode": 17,
-  "versionName": "3.14",
-  "webVersion": 17,
+  "versionCode": 18,
+  "versionName": "3.15",
+  "webVersion": 18,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "e5c54d6ae1d880b4bc3cefe6b5ed120e0f9994390cdaef001dda8da235f151c8",
-  "apkUrl": "FourfoldFury-3.14.apk",
-  "apkSha256": "9f1bdbb3dcb97f79ac2c300aed95006bdc191c158cadc4d191015c63a4f96c2e",
-  "notes": "v3.14: mythical creature remodel, unique voices, new icons, temple passive heal (18% max HP at turn start).",
-  "published": "2026-11-10T02:48:31.627Z"
+  "sha256": "934cdd5c06752ccd6f93c242c5637ccb35ec0443554479fc8dbbf520deec01ce",
+  "apkUrl": "FourfoldFury-3.15.apk",
+  "apkSha256": "277cf7f241da8290528bd206f5ec6022b69198f69b239c21d53a2cc286f1e92d",
+  "notes": "v3.15: Ferrakar, the Veinfather — God of Metal and Earth. e_lord reworked with a stone-and-forged-metal model, Anvil Strike, Forgehide, Anvilquake, and a metallic forge voice. Numbers unchanged.",
+  "published": "2026-11-10T04:44:04.836Z"
 }
