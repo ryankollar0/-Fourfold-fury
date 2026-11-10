@@ -1,12 +1,12 @@
 {
-  "versionCode": 15,
-  "versionName": "3.12",
-  "webVersion": 15,
+  "versionCode": 16,
+  "versionName": "3.13",
+  "webVersion": 16,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "e570db20b23a90ab2d6be66c1acd0494d6049ea553aeb6e9b74926242bef0ed6",
-  "apkUrl": "FourfoldFury-3.12.apk",
-  "apkSha256": "095a0c3d7ea22b9439aa966df12e5c479d1e72ddec94e4b5245bfde6b64424ed",
-  "notes": "v3.12: 60 new monster units (210 total), 3 summoners per side (Overlord + 2 Heralds), Army Builder with saved armies usable on the war map, Elemental Rite spell + arena Call Elemental.",
-  "published": "2026-11-04T02:47:01.379Z"
+  "sha256": "2a847487861431e627239c2f3ed42ddfbea13bb630f973288315e6dc8422d6db",
+  "apkUrl": "FourfoldFury-3.13.apk",
+  "apkSha256": "ad6f0904a9b4ebc0f9f607f08a223d2e2579a7d7bcc5f03ecf9948ab842b5871",
+  "notes": "v3.13: unique attack animations for all 214 creatures + lifelike graphics pass (Low/High/Ultra)",
+  "published": "2026-11-10T01:11:38.331Z"
 }
