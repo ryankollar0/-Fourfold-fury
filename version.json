@@ -1,12 +1,12 @@
 {
-  "versionCode": 16,
-  "versionName": "3.13",
-  "webVersion": 16,
+  "versionCode": 17,
+  "versionName": "3.14",
+  "webVersion": 17,
   "minVersionCode": 4,
   "indexUrl": "index.html",
-  "sha256": "2a847487861431e627239c2f3ed42ddfbea13bb630f973288315e6dc8422d6db",
-  "apkUrl": "FourfoldFury-3.13.apk",
-  "apkSha256": "ad6f0904a9b4ebc0f9f607f08a223d2e2579a7d7bcc5f03ecf9948ab842b5871",
-  "notes": "v3.13: unique attack animations for all 214 creatures + lifelike graphics pass (Low/High/Ultra)",
-  "published": "2026-11-10T01:11:38.331Z"
+  "sha256": "e5c54d6ae1d880b4bc3cefe6b5ed120e0f9994390cdaef001dda8da235f151c8",
+  "apkUrl": "FourfoldFury-3.14.apk",
+  "apkSha256": "9f1bdbb3dcb97f79ac2c300aed95006bdc191c158cadc4d191015c63a4f96c2e",
+  "notes": "v3.14: mythical creature remodel, unique voices, new icons, temple passive heal (18% max HP at turn start).",
+  "published": "2026-11-10T02:48:31.627Z"
 }
