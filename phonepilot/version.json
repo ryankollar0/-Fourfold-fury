@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.6.apk",
-  "apkSha256": "1e3bffe60aa6fb7410adecaab5f14326a844626b1080770b31ddf917f8c6bb7d",
-  "apkSize": 5528490,
-  "notes": "1.6: Wake phrase required by default (nothing happens until you say Hey Pilot; wake alone = chime + 8 s window; Hey Pilot, skip song in one breath), Bluetooth headset/car mic support, noise gate that filters music, road noise, passengers and PhonePilot's own voice, Did you mean...? for unsure commands, never texts/calls on a shaky hearing, Bluetooth & noise settings (meter, sensitivity, calibrate, custom wake phrase + samples, voice match), that-wasn't-for-you learning.",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.7.apk",
+  "apkSha256": "da26f9d63ed59433ec56e37c97eb80c349d7818e7348ea112cf7b5104da1f62f",
+  "apkSize": 5544996,
+  "notes": "1.7: quality pass - crash log + auto-recovery, Health check and Get started checklist with one-tap fixes, light theme, large-text fixes, sturdier updater, 11 command fixes",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
