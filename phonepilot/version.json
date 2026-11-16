@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.7.apk",
-  "apkSha256": "da26f9d63ed59433ec56e37c97eb80c349d7818e7348ea112cf7b5104da1f62f",
-  "apkSize": 5544996,
-  "notes": "1.7: quality pass - crash log + auto-recovery, Health check and Get started checklist with one-tap fixes, light theme, large-text fixes, sturdier updater, 11 command fixes",
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.8.apk",
+  "apkSha256": "4226d8d70a7cc55baaa02cdc275f228266a29d79f7208ca2db7810be6657f681",
+  "apkSize": 5594518,
+  "notes": "1.8: voice picker with 7 presets (Robot, Retro, Whisper effects), animated robot face with mouth synced to speech, 14 backgrounds incl. your own photo, talking face over other apps, chosen voice used everywhere.",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
