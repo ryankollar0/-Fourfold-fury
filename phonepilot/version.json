@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.1.apk",
+  "apkSha256": "377aaa7875a0bce27b48c8b9fa9f067b9d675a9323f93715a77f5621ad9455cf",
+  "apkSize": 5331315,
+  "notes": "PhonePilot 1.1: free on-device AI assistant (Qwen2.5, optional download), web answers, and automatic updates.",
+  "minVersionCode": 1,
+  "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
+}
