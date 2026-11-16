@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.4.apk",
-  "apkSha256": "7acdf4ba6273358c0576d1743ee4c2e885bff175d9a7ba13c649bba8536b5dec",
-  "apkSize": 5442350,
-  "notes": "1.4: Voice navigation stays on (update fix, auto re-enable, instant fix prompt, restricted-settings guide), floating bubble + mini panel over any app, conversation mode with memory, teach new commands by talking",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.5.apk",
+  "apkSha256": "f4e1f178e522a256da2773961868e2fec14d7596c70d89742468dfebad597a50",
+  "apkSize": 5491564,
+  "notes": "1.5: Spotify voice control (play, pause, skip, shuffle, like, what's playing, liked songs, playlists, play more like this), headphone autopilot, and using any app you name: deep actions for YouTube, Maps, WhatsApp, email, camera, calendar, clock, settings and the Play Store, plus a screen agent with a Stop button that asks before sending, buying, posting or deleting, and 'watch me' teaching.",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
