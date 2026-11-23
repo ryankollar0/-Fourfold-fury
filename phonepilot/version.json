@@ -1,10 +1,10 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.8.apk",
-  "apkSha256": "4226d8d70a7cc55baaa02cdc275f228266a29d79f7208ca2db7810be6657f681",
-  "apkSize": 5594518,
-  "notes": "1.8: voice picker with 7 presets (Robot, Retro, Whisper effects), animated robot face with mouth synced to speech, 14 backgrounds incl. your own photo, talking face over other apps, chosen voice used everywhere.",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.9.apk",
+  "apkSha256": "fcd71829e8fcca55853b683287b2841c0233a8090869e781c42c74086947d718",
+  "apkSize": 18690187,
+  "notes": "1.9: neural & custom voices, startup crash fix, honest self-awareness (About me, status, notices), and PhonePilot no longer pauses your music: it listens for Hey Pilot on-device, hears your command on-device and only lowers music while you talk (setting: Keep / Lower / Pause).",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
