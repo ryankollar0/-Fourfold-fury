@@ -1,10 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "2.1",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.1.apk",
-  "apkSha256": "9dbdb44b7c2e9e2f35e8910e0c35ecb88106c677897be745b0fcba4fa4d77888",
-  "apkSize": 18710730,
-  "notes": "Search the web without opening the app: say \u201cHey Pilot, search for\u2026\u201d, \u201clook up\u2026\u201d, \u201cwhat's the weather?\u201d or \u201cwhat's the news?\u201d from any app, even with the phone locked. The answer is spoken and shown in a notification with an Open results button (the browser opens only if you tap it or say \u201copen that\u201d). Say \u201ctell me more\u201d for more. No network or a slow search is told to you out loud, and your music only ducks.",
+  "versionCode": 13,
+  "versionName": "2.2",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.2.apk",
+  "apkSha256": "94e1107fc2754cd23b42cf9048d39569a75d0af75705929c044c5096d73638d7",
+  "apkSize": 18797062,
+  "notes": "PhonePilot 2.2: hands-free conversation, singing/humming/whistling, a voice matched from your videos (MP4), and every setting without opening the app",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
