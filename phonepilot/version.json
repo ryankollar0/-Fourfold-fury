@@ -1,10 +1,10 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-1.9.apk",
-  "apkSha256": "fcd71829e8fcca55853b683287b2841c0233a8090869e781c42c74086947d718",
-  "apkSize": 18690187,
-  "notes": "1.9: neural & custom voices, startup crash fix, honest self-awareness (About me, status, notices), and PhonePilot no longer pauses your music: it listens for Hey Pilot on-device, hears your command on-device and only lowers music while you talk (setting: Keep / Lower / Pause).",
+  "versionCode": 11,
+  "versionName": "2.0",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.0.apk",
+  "apkSha256": "1559988be6e34f7dae6f9a248b8059de19ddbcee8d02a2930143062cbf348890",
+  "apkSize": 18702473,
+  "notes": "Answers out loud without switching apps: voice commands from another app are carried out right where you are (Answer in background, on by default). Calls and texts are confirmed by voice, a quiet caption shows the reply, and 'why did you open?' explains. Music only ducks, never pauses.",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
