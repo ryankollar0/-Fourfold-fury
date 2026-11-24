@@ -1,10 +1,10 @@
 {
-  "versionCode": 14,
-  "versionName": "2.3",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.3.apk",
-  "apkSha256": "e2371d5c0c1a1d06346a6a6a8d0ad1667b267cd290b50a3c1efcc17e235b7947",
-  "apkSize": 18809352,
-  "notes": "PhonePilot 2.3: voices from a video or audio clip now aim for a match of at least 50% (tuned and checked on a new sentence), with better speech clean-up and music suppression; unclear clips are flagged honestly",
+  "versionCode": 15,
+  "versionName": "2.4",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.4.apk",
+  "apkSha256": "bba2d053816bd56c039ad35e1c6b58b87e7cf92e98572342d278a45a0b6b7891",
+  "apkSize": 18817545,
+  "notes": "2.4: polish pass \u2014 clip voice tuned on two sentences with honest held-out score, In use badge, bubble and talking face stay clear of settings and file picker, smoother singing (portamento, vibrato, timing), fewer repeated replies, low-memory handling, crash guard ignores force-stops.",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
