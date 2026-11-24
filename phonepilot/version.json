@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.2.apk",
-  "apkSha256": "94e1107fc2754cd23b42cf9048d39569a75d0af75705929c044c5096d73638d7",
-  "apkSize": 18797062,
-  "notes": "PhonePilot 2.2: hands-free conversation, singing/humming/whistling, a voice matched from your videos (MP4), and every setting without opening the app",
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://ryankollar0.github.io/-Fourfold-fury/phonepilot/PhonePilot-2.3.apk",
+  "apkSha256": "e2371d5c0c1a1d06346a6a6a8d0ad1667b267cd290b50a3c1efcc17e235b7947",
+  "apkSize": 18809352,
+  "notes": "PhonePilot 2.3: voices from a video or audio clip now aim for a match of at least 50% (tuned and checked on a new sentence), with better speech clean-up and music suppression; unclear clips are flagged honestly",
   "minVersionCode": 1,
   "certSha256": "271f64de7907d4895473fec20470b23e20fe121425decf468160393e453d34a9"
 }
